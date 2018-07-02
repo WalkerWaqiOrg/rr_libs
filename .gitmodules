@@ -1,0 +1,4 @@
+[submodule "libs/cryptonote"]
+	path = libs/cryptonote
+	url = https://github.com/WalkerWaqiOrg/cryptonote_lib.git
+	branch = v0.11.1.0-draft1
